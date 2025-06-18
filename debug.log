@@ -1,0 +1,42 @@
+[2025-05-17 02:29:43] Form submitted
+[2025-05-17 02:29:43] Received data - Role: contractor, Username: nurina_tihani_s, Email: 123@gmail.com
+[2025-05-17 02:29:43] Validation errors: Array
+(
+)
+
+[2025-05-17 02:29:43] Warning: userExists function not found
+[2025-05-17 02:29:43] No validation errors, proceeding with user creation
+[2025-05-17 02:29:43] User created successfully with ID: 3
+[2025-06-16 10:41:29] Form submitted
+[2025-06-16 10:41:29] Warning: userExists function not found
+[2025-06-16 10:42:35] Form submitted
+[2025-06-16 10:42:35] Warning: userExists function not found
+[2025-06-16 10:53:22] Form submitted
+[2025-06-16 10:53:22] Profile picture uploaded successfully: uploads/profile_pictures/profile_contractor_1750085602.png
+[2025-06-16 10:53:22] No validation errors, proceeding with user creation
+[2025-06-16 10:53:22] User created successfully with ID: 6
+[2025-06-16 10:58:53] Form submitted
+[2025-06-16 10:58:53] Profile picture uploaded successfully: uploads/profile_pictures/contractor_6850312d294d6.png
+[2025-06-16 10:58:53] No validation errors, proceeding with user creation
+[2025-06-16 10:58:53] User created successfully with ID: 7
+[2025-06-16 12:47:23] Form submitted
+[2025-06-16 12:47:23] Profile picture uploaded successfully: uploads/profile_pictures/project_manager_68504a9bdd7c4.png
+[2025-06-16 12:47:23] No validation errors, proceeding with user creation
+[2025-06-16 12:47:23] User created successfully with ID: 8
+[2025-06-16 18:07:13] Form submitted
+[2025-06-16 18:07:13] Profile picture uploaded successfully: Uploads/profile_pictures/contractor_68509591d6a03.png
+[2025-06-16 18:07:13] No validation errors, proceeding with user creation
+[2025-06-16 18:07:13] User created successfully with ID: 9, Profile picture path: Uploads/profile_pictures/contractor_68509591d6a03.png
+[2025-06-16 18:14:10] Form submitted
+[2025-06-16 18:14:10] Profile picture uploaded successfully: Uploads/profile_pictures/project_manager_68509732d0e4b.png
+[2025-06-16 18:14:10] No validation errors, proceeding with user creation
+[2025-06-16 18:45:25] Form submitted
+[2025-06-16 18:45:25] Profile picture uploaded successfully: Uploads/profile_pictures/contractor_68509e85246c2.png
+[2025-06-16 18:45:25] No validation errors, proceeding with user creation
+[2025-06-16 18:53:18] Form submitted
+[2025-06-16 18:53:18] Profile picture uploaded successfully: Uploads/profile_pictures/project_manager_6850a05e43897.jpeg
+[2025-06-16 18:53:18] No validation errors, proceeding with user creation
+[2025-06-16 18:53:18] Error creating account: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'tihani@gmail.com' for key 'email'
+[2025-06-16 18:54:12] Form submitted
+[2025-06-16 18:54:12] Profile picture uploaded successfully: Uploads/profile_pictures/contractor_6850a094c165d.jpeg
+[2025-06-16 18:54:12] No validation errors, proceeding with user creation

@@ -1,5 +1,3 @@
-# Final-Year-Project
-
 # Contractor Billing & Expense Management System
 
 ## Overview
