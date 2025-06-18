@@ -81,6 +81,4 @@ htdocs/
 - **Session Issues**: Make sure PHP sessions are enabled and configured correctly on your server.
 
 ## License
-
-- The main application is released under your chosen license (add here if applicable).
 - [TCPDF](https://github.com/tecnickcom/TCPDF) is LGPL v3. See `vendor/tecnickcom/tcpdf/LICENSE.TXT` for details. 
